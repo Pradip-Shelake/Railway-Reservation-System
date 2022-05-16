@@ -11,17 +11,17 @@ body
         margin: auto;  
         margin: 20 0 0 450px;  
         padding: 80px;  
-        background: white;  
+        background: black;  
         border-radius: 15px ;  
           
 }  
 h2{  
     text-align: center;  
-    color:white;  
+    color:black;  
     padding: 20px;  
 }  
 label{  
-    color:white;  
+    color:black;  
     font-size: 17px;  
 }  
 #Uname{  
